@@ -17,7 +17,7 @@
 .ex-2-square:hover{
     width: 400px;
 }
-
+/* ESERCIZIO 2 TERMINATO */
 
 
 
@@ -25,12 +25,24 @@
     width: 100px;
     height: 100px;
     background: red;
+    transition: border-radius 4s;
 }
+.ex-3-square:hover{
+    border-radius: 50%;
+}
+/* ESERCIOZIO 3 TERMINATO */
+
+
 .ex-4-square {
     width: 100px;
     height: 100px;
     background: red;
 }
+
+
+
+
+
 .ex-5-square {
     margin: 20px;
     width: 60px;
